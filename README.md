@@ -17,4 +17,4 @@ Sou programador e estudante de Análise e Desenvolvimento de Sistemas no Institu
 
 ###  ☎  Contato
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-baumann-6054a437/)](https://https://www.linkedin.com/in/kelvinhey/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-baumann-6054a437/)](https://www.linkedin.com/in/kelvinhey/)
