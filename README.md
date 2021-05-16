@@ -5,7 +5,7 @@
 Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal do Paraná. No momento estou cursando meu segundo semestre.
 
 - 📚 Me encontro atualmente estudando a linguagem Java, juntamente com suas tecnologias relacionadas.
-- 🛠 Planejo seguir minha carreira como desenvolvedor Java na área da Web.
+- 🛠 Planejo seguir minha carreira como desenvolvedor Java na área da Web ou outra, a depender das oportunidades.
 
 ---
 
