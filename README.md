@@ -4,8 +4,8 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal do Paraná. No momento estou cursando meu terceiro semestre.
 
-- 📚 Me encontro atualmente estudando a linguagem Java, juntamente com suas tecnologias relacionadas.
-- 🛠 Planejo seguir minha carreira como desenvolvedor Java na área da Web ou outra, a depender das oportunidades.
+- 📚 Me encontro atualmente estudando e programando na linguagem Object Pascal, utilizando a plataforma Delphi.
+- 🛠 Planejo seguir minha carreira como desenvolvedor Delphi ou outra área, a depender das oportunidades.
 
 ---
 
